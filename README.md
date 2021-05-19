@@ -12,7 +12,7 @@ To serve in the browser - clone the whole project into your local machine!
 
 ## Usage
 
-Enter any city of a country on the input bar and the current weather will be shown...
+Enter any city of a country on the input bar and the current weather will be shown!
 
 ### Author
 
