@@ -17,4 +17,4 @@ Enter any city of a country on the input bar and the current weather will be sho
 ### Author
 
 Rocky Romorosa
-[Gestalt Media](www.gestalmedianow.com)
+(www.behance.net/rockywolfox)
